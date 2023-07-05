@@ -1,0 +1,3134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+            xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+            xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+            xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+            xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+            xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+            xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+            xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+            xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+            xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+            xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+            xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:oel="http://schemas.microsoft.com/office/2019/extlst"
+            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+            xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml"
+            xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+            xmlns:w10="urn:schemas-microsoft-com:office:word"
+            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+            xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+            xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+            xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+            xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+            xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+            xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
+            xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+            xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+            xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+            xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+            xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
+            mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+    <w:body>
+        <w:p w14:paraId="62A1FE30" w14:textId="14B45F23" w:rsidR="00046D61" w:rsidRPr="00C54C87"
+             w:rsidRDefault="002A71C9" w:rsidP="002A71C9">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>图像去模糊研究综述</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="40B52459" w14:textId="60EA18B9" w:rsidR="00C54C87" w:rsidRPr="00C54C87"
+             w:rsidRDefault="002A71C9" w:rsidP="00C54C87">
+            <w:pPr>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>摘要：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3A67B5F8" w14:textId="3FC03024" w:rsidR="00C54C87" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00C54C87" w:rsidP="00C54C87">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    随着生活质量的提高和日常工作需求的增加，图像在我们的生活中扮演着日益重要的角色。然而，由于相机抖动、人物运动等因素引起的图像模糊问题已成为影响图像质量的关键因素。因此，如何消除图像模糊、恢复清晰的图像逐渐成为计算机视觉领域的一项重要研究课题。经过半个多世纪的不懈努力，众多科技研究人员在图像去模糊领域取得了显著的研究成果。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5A60FA4D" w14:textId="37BCCBFA" w:rsidR="007643B4" w:rsidRDefault="00C54C87"
+             w:rsidP="00C54C87">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    本文对图像去模糊领域的研究工作进行了综述，并详细介绍了一系列经典的图像去模糊方法，以全面了解当前的研究现状，并展望未来的发展趋势。综述包括传统图像去模糊方法和基于深度表示的图像去模糊方法，并对这些技术方法进行了全面的分类和介绍。通过本文的综述，旨在为图像去模糊领域的研究人员提供指导，并推动该领域的进一步学术研究和发展。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="67E158F6" w14:textId="77777777" w:rsidR="00C54C87" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00C54C87" w:rsidP="00C54C87">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="26537F88" w14:textId="1A1E44C8" w:rsidR="007643B4" w:rsidRPr="00C54C87"
+             w:rsidRDefault="007643B4" w:rsidP="002A71C9">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>引言</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="26BC9EC7" w14:textId="514E1D49" w:rsidR="00396127" w:rsidRPr="00396127"
+             w:rsidRDefault="00396127" w:rsidP="00396127">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00396127">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>图像去模糊的目标是将模糊的图像恢复为更清晰的图像，该技术在人类社会和工业生产中具有广泛的应用场景。由于图像模糊在生活中普遍存在，自上个世纪以来，图像去模糊问题一直受到人们的关注和研究。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="58B0B85D" w14:textId="3CC663C5" w:rsidR="00396127" w:rsidRPr="00396127"
+             w:rsidRDefault="00396127" w:rsidP="00396127">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00396127">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>从</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00396127">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    20世纪60年代开始，为了解决图像去模糊问题，首次提出将图像问题转换到频域进行求解，并提出了逆滤波[1]、维纳滤波[2]等经典算法。然而，基于频域的图像去模糊算法对模糊的退化类型需要准确了解，并且对噪声敏感。因此，基于空域的图像去模糊估计算法应运而生。常见的基于空域的估计算法包括差分恢复算法[3]、最小二乘算法[4]、最大熵算法[5]等。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4CF7822A" w14:textId="77777777" w:rsidR="00396127" w:rsidRDefault="00396127"
+             w:rsidP="00396127">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00396127">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    近年来，图像去模糊算法取得了重大突破。随着时间的推移，许多方法和类别是从图像去模糊问题中发展而来的。根据去模糊算法的方法，大致可以分为基于优化的去模糊方法和基于深度学习的去模糊方法。根据输入类型的不同，可以将其分类为基于单帧输入的去模糊算法和基于多帧输入的去模糊算法。根据退化类型的不同，可以分为运动模糊、高斯模糊、散焦模糊、湍流模糊等。根据模糊核是否已知，可以分为盲目去模糊和非盲目去模糊。根据退化是否具有一致性，可以分为空间变化模糊和空间不变模糊。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="232CC4D0" w14:textId="77777777" w:rsidR="00772A59" w:rsidRPr="00772A59"
+             w:rsidRDefault="00772A59" w:rsidP="00772A59">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="463DF0C8" w14:textId="77777777" w:rsidR="00772A59" w:rsidRDefault="00772A59"
+             w:rsidP="00772A59">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00772A59">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>图像去模糊是计算机视觉研究中的一个经典问题。近年来，图像去模糊已经成为计算机视觉领域的一个基础课题，也是重点研究项目之一。如图</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00772A59">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    1所示，图像去模糊旨在从观感较差的模糊图像中恢复出极致的视觉体验，使图像更加清晰。近年来，随着深度学习技术的兴起，图像去模糊技术取得了质的飞跃。该技术的应用主要集中在空间探索、天文观测、材料研究、遥感遥测、军事科学[6]、生物科学、医学成像等领域[7]，同时也在交通监控[8]、刑事侦查等领域发挥着重要作用。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="608AC17A" w14:textId="671FB3B4" w:rsidR="00497769" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00497769" w:rsidP="00772A59">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="581D8DFF" wp14:editId="5D5220DA">
+                        <wp:extent cx="1097280" cy="849923"/>
+                        <wp:effectExtent l="0" t="0" r="7620" b="7620"/>
+                        <wp:docPr id="421074186" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="421074186" name=""/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId4"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="1102562" cy="854014"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="6E685920" wp14:editId="53DE9639">
+                        <wp:extent cx="1097280" cy="857543"/>
+                        <wp:effectExtent l="0" t="0" r="7620" b="0"/>
+                        <wp:docPr id="1936699300" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="1936699300" name=""/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId5"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="1100095" cy="859743"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5540C700" w14:textId="2DD27047" w:rsidR="00497769" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00497769" w:rsidP="00607F07">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>(a)模糊图像(b)清晰图像</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="12C0FEB0" w14:textId="10A20CFB" w:rsidR="00497769" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00497769" w:rsidP="00607F07">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>图</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>1:图像去模糊原理图</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5484A446" w14:textId="77777777" w:rsidR="00497769" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00497769" w:rsidP="00607F07">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="3A0717A9" w14:textId="77777777" w:rsidR="009E4038" w:rsidRDefault="009E4038"
+             w:rsidP="009E4038">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="009E4038">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>图像模糊过程可以建模为</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009E4038">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>b = Ks + n，其中b、s、n分别表示经过矢量化的模糊图</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009E4038">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>
+                    像、清晰的潜在图像和附加的噪声。因此，传统的基于已知模糊的去模糊方法在恢复清晰图像方面存在一定的限制。然而，通过对模糊核和潜在图像施加不同的约束，或者同时使用手工设计的正则化项，可以实现模糊的消除。不过，这些方法往往涉及到解决非凸优化问题，因此在处理复杂实际情况时效果不佳。
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="009E4038">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    近年来，在图像去模糊领域，基于学习表征的方法取得了显著的成功。这些方法通过学习大量样本来建立去模糊网络，能够准确地估计模糊核并恢复清晰的图像。这种端到端的学习模型易于理解和应用，并在客观指标和主观感受方面都取得了明显的改善。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7233D27D" w14:textId="0B43C5AB" w:rsidR="009E4038" w:rsidRPr="009E4038"
+             w:rsidRDefault="009E4038" w:rsidP="009E4038">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="009E4038">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>总的来说，本文主要介绍了图像去模糊领域的两种主要方法以及常用的图像去模糊数据集。在第</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009E4038">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    2节中，重点介绍了传统的图像去模糊方法；在第3节中，重点介绍了基于深度学习的图像去模糊方法，并介绍了它们的思想和技术。在第4节中，介绍了几个常用的图像去模糊数据集，用于算法的训练和评估。在第5节中，介绍了图像去模糊的评价指标，用于客观评估算法的性能。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="491EF79A" w14:textId="77777777" w:rsidR="009E4038" w:rsidRPr="009E4038"
+             w:rsidRDefault="009E4038" w:rsidP="009E4038">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="009E4038">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>本综述的主要意义在于：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="440DA1E4" w14:textId="77777777" w:rsidR="009E4038" w:rsidRPr="009E4038"
+             w:rsidRDefault="009E4038" w:rsidP="009E4038">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="009E4038">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>1. 综合总结了图像去模糊领域的研究进展和方法，为研究人员提供了全面的了解和参考；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5A088497" w14:textId="77777777" w:rsidR="009E4038" w:rsidRPr="009E4038"
+             w:rsidRDefault="009E4038" w:rsidP="009E4038">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="009E4038">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>2. 提供了传统方法和深度学习方法的对比与分析，帮助读者理解不同方法的优缺点；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="13D369C1" w14:textId="77777777" w:rsidR="009E4038" w:rsidRPr="009E4038"
+             w:rsidRDefault="009E4038" w:rsidP="009E4038">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="009E4038">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>3. 介绍了常用的图像去模糊数据集，为算法的验证和比较提供了资源；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="223693DA" w14:textId="4202E7F8" w:rsidR="009E4038" w:rsidRPr="009E4038"
+             w:rsidRDefault="009E4038" w:rsidP="009E4038">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="009E4038">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>4. 介绍了图像去模糊的评价指标，帮助读者评估算法的性能和效果。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2527FD37" w14:textId="22D2C7B2" w:rsidR="001B6C48" w:rsidRDefault="009E4038"
+             w:rsidP="009E4038">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="009E4038">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>通过本综述的阅读，读者可以对图像去模糊领域的研究现状有更深入的了解，同时也为他们的研究和学习提供了指导。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3A669B15" w14:textId="77777777" w:rsidR="009E4038" w:rsidRPr="00C54C87"
+             w:rsidRDefault="009E4038" w:rsidP="009E4038">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="04CAF3DE" w14:textId="1AE52759" w:rsidR="001B6C48" w:rsidRPr="00C54C87"
+             w:rsidRDefault="002724EF" w:rsidP="001B6C48">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="422"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:b/>
+                    <w:bCs/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:b/>
+                    <w:bCs/>
+                </w:rPr>
+                <w:t>2传统图像去模糊方法</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="68F319EC" w14:textId="77777777" w:rsidR="00210BAD" w:rsidRDefault="00210BAD"
+             w:rsidP="0053156A">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00210BAD">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>早期经典的图像去模糊算法主要包括维纳滤波算法、</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00210BAD">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    RL滤波算法和全变分算法等。然而，这些方法在图像恢复过程中未充分利用自然图像的先验信息，导致恢复后的图像不够准确，主要针对非盲图像进行去模糊处理。为了克服这些经典方法的不足，后来的传统方法在经典算法的基础上，充分利用自然图像的一些先验信息，如自然图像的稀疏性，对图像进行恢复。这些方法通过收集大量统计图像特征来获取与自然图像相关的先验信息，并将其作为正则化项应用于图像去模糊过程中，以提高去模糊效果。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="64BCBBED" w14:textId="37824ED0" w:rsidR="008510BB" w:rsidRDefault="008510BB"
+             w:rsidP="008510BB">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="008510BB">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>基于模型的方法首先对图像模糊过程进行建模，然后利用优化方法和其他数学工具来求解逆过程，从而实现图像去模糊。正如前面提到的，传统去模糊方法中的经典形式包括：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="10AB11AD" w14:textId="77777777" w:rsidR="008510BB" w:rsidRDefault="008510BB"
+             w:rsidP="0053156A">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <m:oMathPara>
+                <m:oMath>
+                    <m:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                        </w:rPr>
+                        <m:t>y = k * x + n</m:t>
+                    </m:r>
+                </m:oMath>
+            </m:oMathPara>
+        </w:p>
+        <w:p w14:paraId="427030CE" w14:textId="41C8B52B" w:rsidR="001C5ABF" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00111099" w:rsidP="0053156A">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00111099">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>在实际应用中，对于给定的模糊图像</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00111099">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>y，估计原始图像x和模糊核k（盲目去模糊），或者已知y和k来估计x（非盲目去模糊）的逆过程解往往是一个病态问题，且该问题的解通常不是唯一的。</w:t>
+            </w:r>
+            <w:r w:rsidR="001C5ABF" w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="31CE4F07" wp14:editId="1CE28CA8">
+                        <wp:extent cx="5274310" cy="2886710"/>
+                        <wp:effectExtent l="0" t="0" r="2540" b="8890"/>
+                        <wp:docPr id="719812725" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="719812725" name=""/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId6"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="5274310" cy="2886710"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="70FFB5C7" w14:textId="77777777" w:rsidR="00947264" w:rsidRDefault="001C5ABF"
+             w:rsidP="001C5ABF">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>随后提出了一种基于正则化的方法。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="368B0B4E" w14:textId="77777777" w:rsidR="00AE004C" w:rsidRPr="00AE004C"
+             w:rsidRDefault="00947264" w:rsidP="001C5ABF">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <m:oMathPara>
+                <m:oMath>
+                    <m:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math" w:hint="eastAsia"/>
+                        </w:rPr>
+                        <m:t>x</m:t>
+                    </m:r>
+                    <m:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                        </w:rPr>
+                        <m:t>,</m:t>
+                    </m:r>
+                    <m:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                        </w:rPr>
+                        <m:t>k</m:t>
+                    </m:r>
+                    <m:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                        </w:rPr>
+                        <m:t>=</m:t>
+                    </m:r>
+                    <m:fName>
+                        <m:limLow>
+                            <m:limLowPr>
+                                <m:ctrlPr>
+                                    <w:rPr>
+                                        <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                                        <w:i/>
+                                    </w:rPr>
+                                </m:ctrlPr>
+                            </m:limLowPr>
+                            <m:e>
+                                <m:r>
+                                    <m:rPr>
+                                        <m:sty m:val="p"/>
+                                    </m:rPr>
+                                    <w:rPr>
+                                        <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                                    </w:rPr>
+                                    <m:t>arg</m:t>
+                                </m:r>
+                                <m:r>
+                                    <m:rPr>
+                                        <m:sty m:val="p"/>
+                                    </m:rPr>
+                                    <w:rPr>
+                                        <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                                    </w:rPr>
+                                    <m:t>m</m:t>
+                                </m:r>
+                                <m:r>
+                                    <m:rPr>
+                                        <m:sty m:val="p"/>
+                                    </m:rPr>
+                                    <w:rPr>
+                                        <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                                    </w:rPr>
+                                    <m:t>in</m:t>
+                                </m:r>
+                            </m:e>
+                            <m:lim>
+                                <m:r>
+                                    <w:rPr>
+                                        <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                                    </w:rPr>
+                                    <m:t>x,k</m:t>
+                                </m:r>
+                            </m:lim>
+                        </m:limLow>
+                        <m:ctrlPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                                <w:i/>
+                            </w:rPr>
+                        </m:ctrlPr>
+                    </m:fName>
+                    <m:e>
+                        <m:d>
+                            <m:dPr>
+                                <m:begChr m:val="|"/>
+                                <m:endChr m:val="|"/>
+                                <m:ctrlPr>
+                                    <w:rPr>
+                                        <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                                        <w:i/>
+                                    </w:rPr>
+                                </m:ctrlPr>
+                            </m:dPr>
+                            <m:e>
+                                <m:d>
+                                    <m:dPr>
+                                        <m:begChr m:val="|"/>
+                                        <m:endChr m:val="|"/>
+                                        <m:ctrlPr>
+                                            <w:rPr>
+                                                <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体"
+                                                          w:hAnsi="Cambria Math"/>
+                                                <w:i/>
+                                            </w:rPr>
+                                        </m:ctrlPr>
+                                    </m:dPr>
+                                    <m:e>
+                                        <m:r>
+                                            <w:rPr>
+                                                <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体"
+                                                          w:hAnsi="Cambria Math"/>
+                                            </w:rPr>
+                                            <m:t>x</m:t>
+                                        </m:r>
+                                        <m:r>
+                                            <w:rPr>
+                                                <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体"
+                                                          w:hAnsi="Cambria Math"/>
+                                            </w:rPr>
+                                            <m:t>⊗</m:t>
+                                        </m:r>
+                                        <m:r>
+                                            <w:rPr>
+                                                <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体"
+                                                          w:hAnsi="Cambria Math"/>
+                                            </w:rPr>
+                                            <m:t>k-y</m:t>
+                                        </m:r>
+                                    </m:e>
+                                </m:d>
+                            </m:e>
+                        </m:d>
+                        <m:mr>
+                            <m:e>
+                                <m:r>
+                                    <w:rPr>
+                                        <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                                    </w:rPr>
+                                    <m:t>2</m:t>
+                                </m:r>
+                                <m:ctrlPr>
+                                    <w:rPr>
+                                        <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                                        <w:i/>
+                                    </w:rPr>
+                                </m:ctrlPr>
+                            </m:e>
+                            <m:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="Cambria Math" w:eastAsia="宋体" w:hAnsi="Cambria Math"/>
+                                </w:rPr>
+                                <m:t>2</m:t>
+                            </m:r>
+                        </m:mr>
+                        <m:ctrlPr>
+                            <w:r w:rsidR="00AE004C" w:rsidRPr="00AE004C">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                                </w:rPr>
+                            </w:r>
+                        </m:ctrlPr>
+                    </m:e>
+                </m:oMath>
+            </m:oMathPara>
+        </w:p>
+        <w:p w14:paraId="6109A344" w14:textId="04C28C3F" w:rsidR="00947264" w:rsidRDefault="00947264"
+             w:rsidP="001C5ABF">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="422E546D" w14:textId="1CED9213" w:rsidR="001C5ABF" w:rsidRPr="00C54C87"
+             w:rsidRDefault="001C5ABF" w:rsidP="001C5ABF">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>基于正则化技术的方法是构造一个优化模型，如式</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>2所示，使恢复后的图像使上述方程取最小值。其中，x表示最终恢复的图像，k表示估计的点扩散函数。等号右侧的第一项称为保真度项，用于保证恢复后的图像能够与原始模糊图像保持一致。第二项α
+                    (x)称为恢复图像的正则化项。该项的作用是使恢复后的图像满足一定的条件。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7A10FC63" w14:textId="0669B191" w:rsidR="001C5ABF" w:rsidRPr="00C54C87"
+             w:rsidRDefault="001C5ABF" w:rsidP="001C5ABF">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>第三项β</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> (k)是关于点扩散函数的正则化项，其作用是使估计的点扩散函数满足一定的条件。当点扩展函数上存在正则化项时，该算法同时估计点扩展函数和清晰图像。这种算法也被称为盲去模糊算法或盲反卷积算法。当假设点扩散函数已知时，只需要估计一个使图像去模糊数学模型的值最小化的清晰图像。图像去模糊数学模型的变化表示为:</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5D4967B8" w14:textId="4BB4C121" w:rsidR="001C5ABF" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00930043" w:rsidP="001C5ABF">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="7061DFAF" wp14:editId="75CF3CD9">
+                        <wp:extent cx="3353091" cy="381033"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="817363449" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="817363449" name=""/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId7"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="3353091" cy="381033"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7F299A15" w14:textId="40D3B029" w:rsidR="00930043" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00930043" w:rsidP="001C5ABF">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>这种算法也被称为非盲去模糊算法或非盲反卷积算法。正则化项的构造是基于正则化的图像去模糊的关键部分。点扩散函数的正则项和恢复图像的正则项对恢复结果有重要影响。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="42868CDB" w14:textId="43D7547E" w:rsidR="00930043" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00930043" w:rsidP="001C5ABF">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>2.1最大后验法</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="12AAD0EB" w14:textId="3F53DEA5" w:rsidR="00930043" w:rsidRPr="00C54C87"
+             w:rsidRDefault="000825BE" w:rsidP="001C5ABF">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    为了减小问题的解空间，更好地逼近实际解，需要增加先验条件。不同的先验条件会导致我们进入不同的解空间，从而得到不同的还原图像。在基于模型的方法中，利用贝叶斯框架下的最大后验概率方法建立图像去模糊的目标函数。然而，基于模型的去模糊方法也有其局限性。首先，大多数方法都是基于经典的卷积模型，目的是实现全局均匀的模糊。对于非全局均匀模糊，如相机绕
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>Z轴旋转引起的图像旋转模糊，很难用单个模糊核来描述。对于局部运动模糊更是束手无策</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>由场景中物体的运动引起的。此外，基于模型的方法一般采用迭代的方法，使用图像金字塔来估计模糊核，从小到大去除模糊，这往往需要大量的时间和开销。</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    Levin教授认为，用MAP目标函数同时求解k和x肯定是不好的。原因如下:首先，错误的单位卷积核比正确的稀疏卷积核更有可能出现(Levin的论文证明了这一点);其次，上述MAP目标函数的变量数量具有高度的不对称性，即已知数量总是小于未知数量。以上两个原因会导致使用这种同时估计k和x的目标函数来做MAP总是不能得到很好的结果。如何解决这种不对称问题是打破游戏的关键。Levin认为更好的方法是单
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>独估计k，这样已知的数量就会远远大于未知的数量。简单地说，对于每个可能的k，我们必须找到所有可能的x的后验概率，并将这些后验概率值相加，得到p (</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>k|y</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>)。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="508AE907" w14:textId="3B6E540C" w:rsidR="000825BE" w:rsidRPr="00C54C87"
+             w:rsidRDefault="001122F5" w:rsidP="001C5ABF">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>在文献</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>[</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>27</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    ]中，作者通过实验发现，不准确建模的图像噪声和估计的点扩散方程的误差是导致响伪影的主要原因，而不是之前认为的Gibbs现象。作者认为基于梯度的优化是优化这种对数先验的最可行的方法，而对于包含数千或数百万未知数的复杂能量函数，梯度下降法既不高效也不稳定。作者提出了一种新的表示方法，将两个分段连续函数串联起来，以适应对数梯度分布。其次，作者使用模糊图像来约束潜在图像的梯度，以一种非常有效地抑制振铃伪影的方式。在观察图像对比度较低的区域，我们对潜在图像施加了一种新的平滑约束。这种约束不仅可以有效地抑制平滑
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>区域的振铃伪影，而且可以抑制附近纹理区域的振铃伪影。这个约束的影响也会传播到内核细化阶段。笔者将上述的全局图像先验和局部图像先验结合起来，形成一个图像先验。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4CADCC75" w14:textId="12A4F354" w:rsidR="001122F5" w:rsidRPr="00C54C87"
+             w:rsidRDefault="001122F5" w:rsidP="001122F5">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>在文献</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>[</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>28</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>]中，作者从透明度的角度提出了一种统一的估计运动模糊滤波器的方法。同时，作者提出了一种仅利用透明信息求解最大后验(MAP)问题来估计模糊滤波器的优化方法。</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    该方法不需要直接计算所有像素颜色和复杂图像结构，具有高效和鲁棒性。相机运动模糊图像中关于区域混合的透明度定义与运动模糊物体上的透明度定义不同。假设运动物体遮挡后面的静态背景，在物体运动模糊中，可以唯一确定透明度图。新的透明图可以有不同的定义，因此笔者称之为广义透明图。作者利用这种先验知识来求解模糊核的最大后验概率。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3878EE61" w14:textId="633374C7" w:rsidR="001122F5" w:rsidRPr="00C54C87"
+             w:rsidRDefault="001122F5" w:rsidP="001122F5">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>在文献</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>[</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>29</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    ]中，作者在稀疏先验中提出了一个额外的项，该项使用了由锐隐图像的局部颜色统计构建的颜色模型。这克服了过度平滑，因为它允许锐利的边缘，只要它们与局部颜色统计一致。与梯度先验相反，它倾向于与观察到的模糊图像一致的最低强度边缘，如果双色模型的边缘与局部颜色统计更一致，则可以产生更高强度的边缘。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="33891B05" w14:textId="129B19A4" w:rsidR="001122F5" w:rsidRPr="00C54C87"
+             w:rsidRDefault="001122F5" w:rsidP="001122F5">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>在文献</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>[30]中，新颖之处在于使用比拉普拉斯分布更重尾的图像先验P (u)，并应用增广拉格朗日方法来解决这一非凸优化问题。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="21A41D4D" w14:textId="2DDE5566" w:rsidR="000825BE" w:rsidRPr="00C54C87"
+             w:rsidRDefault="001122F5" w:rsidP="001122F5">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>在文献</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>[31]中，作者提出的正则化函数是图像高频上的11 -范数与12
+                    -范数之比，可以很好地区分模糊图像和清晰图像。同时，它不需要其他方法所需的复杂性，克服了MAP设置中现有先验估计模糊核和清晰图像的缺点。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="453A990C" w14:textId="2063A695" w:rsidR="000825BE" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00615ED7" w:rsidP="001C5ABF">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>2.2变分贝叶斯方法</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="03F7F753" w14:textId="6DAA0794" w:rsidR="004A71B8" w:rsidRPr="00C54C87"
+             w:rsidRDefault="004A71B8" w:rsidP="004A71B8">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>上述边际概率并不容易求出，且计算量非常复杂。因此许多学者都采用近似的方法来解决这个问题。</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    Fergus[32]等2006年提出了第一个非参数运动模糊核估计方法，也是最早的盲图像去模糊方法。通过学习混合高斯图像先验和混合指数模糊核先验，提出了一种基于VB准则的图像非参数反卷积方法。过去，基于MAP方法的模糊核估计大多失败。虽然这种方法的实际去模糊效果并不令人满意，但有一定的启示
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="06863F8E" w14:textId="44C9D2E1" w:rsidR="004A71B8" w:rsidRPr="00C54C87"
+             w:rsidRDefault="004A71B8" w:rsidP="004A71B8">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="0DABD8F5" wp14:editId="237DAC9D">
+                        <wp:extent cx="5274310" cy="4531995"/>
+                        <wp:effectExtent l="0" t="0" r="2540" b="1905"/>
+                        <wp:docPr id="281681214" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="281681214" name=""/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId8"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="5274310" cy="4531995"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5411744B" w14:textId="178D25B0" w:rsidR="004A71B8" w:rsidRPr="00C54C87"
+             w:rsidRDefault="004E7198" w:rsidP="004A71B8">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>它带来的意义是深远的。一方面，使用</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    MAP的后验点估计准则(很大程度上相当于正则化方法)，混合高斯图像先验完全不适合盲去模糊问题，不利于显著性边缘的有效识别和估计;另一方面，与MAP的点估计相比，VB的后验均值估计具有天然的鲁棒性，可以降低“显著边-非参数模糊核”交替迭代估计陷入局部最小值的风险[33]。除了本文的启发性阐述外，后续文献[34,35,36,37]也从理论和实践的角度证明了基于VB的图像去模糊方法相对于MAP方法的优越性。Fergus给出了其完整的盲反卷积过程:首先对图像进行预处理。为了减少计算
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>量并得到好的结果，要求用户选择一个图像块</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>;其次，利用变分贝叶斯，估计卷积核k，为了避免陷入局部最优，作者采用了由粗到精的策略;最后，使用标准的非盲反卷积方法重建清晰图像x。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="126626A1" w14:textId="7BE15368" w:rsidR="004E7198" w:rsidRPr="00C54C87"
+             w:rsidRDefault="004E7198" w:rsidP="004A71B8">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>作者在</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    [32]中发现，最近在自然图像统计方面的研究表明，自然景物的照片通常服从非常具体的图像梯度分布。作者使用零阶高斯混合模型来表示梯度大小的分布。选择这种表示的原因是，它可以提供一个很好的近似经验分布，并允许算法有一个可处理的估计过程。作者认为MAP的目标函数试图最小化所有的梯度(甚至更大的梯度)，我们期望自然图像具有更大的梯度。此外，作者发现MAP目标函数容易受到局部极小值的影响。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="402BE07F" w14:textId="4B13A2E8" w:rsidR="004E7198" w:rsidRPr="00C54C87"
+             w:rsidRDefault="004E7198" w:rsidP="004E7198">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>在文献</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>[38]中，作者进一步探讨了MAP方法失败的原因，得出在</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>MAPx,k</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    问题中，由于未知数的数量随着图像尺寸的增大而增加，我们永远无法收集到足够的测量值。笔者认为MAP目标函数的变量数具有高度的不对称性。可见，已知量的数量总是少于未知量的数量。同时，作者证明了当图像尺寸增大时，单独对k进行
+                </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>MAPk</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>估计(对x进行边缘化)可以恢复真实核，并且精度增大。而且，通过定量分析得到变分贝叶斯近似的方法确实明显优于现有的方法。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3DBBA31B" w14:textId="2937570F" w:rsidR="004E7198" w:rsidRPr="00C54C87"
+             w:rsidRDefault="004E7198" w:rsidP="004E7198">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>在文献</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>[33]中，作者系统地分析和论证了VB方法和MAP方法的基本原理，论证了VB</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>
+                    及其相关先验的严格评估离不开实现启发式，并细致地考察了实际VB系统所采用的相关底层算法细节之间的相互作用。同时，从理论上进一步分析了VB盲去模糊方法的先验最优选择问题，指出在一定程度上，Jeffreys先验可以达到最佳的盲去模糊效果。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="59CDC657" w14:textId="53E59441" w:rsidR="004E7198" w:rsidRPr="00C54C87"
+             w:rsidRDefault="004E7198" w:rsidP="004E7198">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="297565B8" wp14:editId="4582E5F4">
+                        <wp:extent cx="5274310" cy="2242185"/>
+                        <wp:effectExtent l="0" t="0" r="2540" b="5715"/>
+                        <wp:docPr id="876182896" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="876182896" name=""/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId9"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="5274310" cy="2242185"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="63F60BBC" w14:textId="40CF0D64" w:rsidR="004E7198" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00F25626" w:rsidP="004E7198">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>3深度表示法</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="08BC4F2F" w14:textId="51B1F5EB" w:rsidR="00F25626" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00F25626" w:rsidP="004E7198">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>随着近年来深度学习的快速发展，利用数据驱动的方法来解决图像的盲目去模糊问题似乎是继</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    VB和MAP方法之后的另一种规范化方法。简单地说，目前数据驱动的盲去模糊方法的重点往往在于如何构建具有良好泛化性能的监督深度神经网络。很明显，该方法的性能主要区别于卷积神经网络架构设计的合理性和训练的合理性。具体来说，ImageNet
+                    ILSVRC图像识别挑战赛中出现了许多极具代表性的模型，这在很大程度上反映了深度表示发展早期的相关进展，包括:
+                </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>AlexNet</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>ZFNet</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>GogleNet</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>VGGNet</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>ResNet</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>ResNeXt</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    等。ICCV、CVPR、ECCV等国际著名学术会议先后召开了人脸识别、目标检测、语义分割等不同的计算机视觉任务，也为图像去模糊的网络构建提供了新的思路。就目前的发展趋势而言，我们主要介绍了多尺度解模糊网络以及近年来比较热门的一代对抗解模糊网络和无监督解模糊网络
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="73320AAE" w14:textId="1B069514" w:rsidR="00F25626" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00F25626" w:rsidP="004E7198">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>孙坚等</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    [26]首先将深度学习方法应用于图像的盲去模糊，并提出了一种利用卷积神经网络在patch级预测运动模糊概率分布的深度学习方法。作者使用精心设计的图像旋转来进一步扩展CNN预测的候选运动模糊核集。然后利用马尔可夫随机场模型推断出密集的非均匀运动模糊场，从而增强运动的平滑性。最后，采用斑块级图像先验非均匀去模糊模型去除运动模糊。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="06660FD1" w14:textId="3E0D65E7" w:rsidR="00F25626" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00E86DDA" w:rsidP="004E7198">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>Ayan
+                    Chakrabarti等[39]将训练网络输出反卷积滤波器的复傅立叶系数应用到输入patch上，使用多分辨率频率分解对输入patch进行编码，并基于频率上的局部性(类似于具有局部性限制的接收空间卷积层)来限制初始网络层的连通性。
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>这导致在训练过程中需要学习的权重数量显著减少，这被证明是至关重要的，因为它允许我们成功地训练一个在大补丁上运行的网络，因此可以解释大型模糊核</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7B89AA47" w14:textId="2CE09DC9" w:rsidR="00E86DDA" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00441A94" w:rsidP="004E7198">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>3.1多尺度去模糊网络</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0DE9A614" w14:textId="37375477" w:rsidR="00441A94" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00441A94" w:rsidP="004E7198">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>多尺度网络的设计在其他领域的图像任务中非常有用。如文章</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    [40]和[41]将多尺度思想应用于目标检测领域，如[42]和[43]，将多尺度思想付诸实践，在图像去雨工作中，如[44]，多尺度方法已成功应用于图像分割领域。多尺度思维在其他图像任务中的成功，使其自然而然地迁移到图像去模糊领域。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5FE0EB06" w14:textId="4E0CDBBA" w:rsidR="00441A94" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00441A94" w:rsidP="004E7198">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="5E565200" wp14:editId="45F35AA7">
+                        <wp:extent cx="5274310" cy="4345940"/>
+                        <wp:effectExtent l="0" t="0" r="2540" b="0"/>
+                        <wp:docPr id="2147177588" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="2147177588" name=""/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId10"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="5274310" cy="4345940"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="52027E45" w14:textId="792C4641" w:rsidR="00441A94" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00441A94" w:rsidP="00441A94">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>Seungjun</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    等[35]基于深度学习方法和传统优化方法提出了解决图像非均匀模糊问题的方法，但对于动态场景的模糊问题，即仅模糊图像中的部分区域的问题是困难的。解决。通过对以往算法的分析和总结，总结出以下问题:首先，对于数据集，难以获得测量的清晰和模糊图像进行训练;其次，对于动态场景的去模糊问题，很难获得局部图像的模糊
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>核</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    ;最后，更大的接受野有助于解决图像去模糊的问题。为了模拟传统的从粗到细的优化方法，作者设计了一个多尺度去模糊模型。顾名思义，在第一阶段，作者将模糊图像的原始尺度降采样到原始尺寸的1/4，并将其输入到网络中，以获得最大的恢复结果;通过上卷积运算，将1/4尺度阶段得到的结果与原始图像进行比较，将图像1/2尺度的模糊图像组合作为第二阶段的输入，通过网络得到第二阶段的去模糊结果;第二阶段的输出进行卷积并结合模糊图像的原始尺寸作为输入，通过网络模型得到最优的清晰图像。这种多尺度策略类似于传统模糊核估计中的粗变细策略
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>。它分解复杂的问题，并逐步恢复它们。首先以低分辨率还原大规模信息，然后再以高分辨率还原。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4F578B13" w14:textId="34742E56" w:rsidR="00C3478A" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00C3478A" w:rsidP="00C3478A">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>后来，</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>Xin
+                    Tao等[21]提出，由于每个尺度解决的问题相同，所以可以使用相同的模型参数。这种跨尺度的网络权值共享可以显著降低训练难度，同时带来明显的稳定性好处。这样的设计显著地减少了可训练参数的数量，并且共享权重的循环使用类似于多次使用数据来学习参数。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6736B119" w14:textId="6822630B" w:rsidR="00C3478A" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00C3478A" w:rsidP="00C3478A">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>高洪云等</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>[23]发现并非所有模块参数共享都有利于去模糊化性能的提高，因此提出了选择性参数共享的一般原则，有利于未来去模糊化系统的设计。由于在</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>resnet</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>[35]和</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>reblocks</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>[34]中，经过两层或两层以上的卷积层后，将输入加到输出的短期跳连接在目标检测、去模糊和超分辨率方面效果较好，笔者提出了一种嵌套跳连接结构，对应于去模糊化网络中转换模块的高阶残差学习。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="63567E85" w14:textId="0A3E99FB" w:rsidR="00C3478A" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00C3478A" w:rsidP="00C3478A">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>Hongguang</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> Zhang等[22]认为多尺度网络使用了大量的训练参数导致训练时间过长，</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>增加极低分辨率输入的网络深度似乎并不能提高去模糊性能，因此他们提出了深度叠加</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>Multipatch</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>网络。作者提出了一种类似空间金字塔匹配的端到端CNN分层模型。与多尺度模型在原始尺寸上进行缩放相比，该模型直接将原始尺寸的图片切割成各个小块，然后下一阶段将小块2 ×
+                    2拼接成一个大块，分阶段进行。该模型在精细到粗的网格中进行去模糊，从而使用多补丁局部到粗的操作。每个更精细的级别作为残差，通过将其残差图像贡献给更粗糙的级别
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>，允许每个级别的网络聚焦在不同的模糊尺度上。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6018E0CE" w14:textId="0840AE87" w:rsidR="00441A94" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00C3478A" w:rsidP="00C3478A">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>Zamir SW等[9]提出了一种多阶段渐进图像去模糊网络。作者在每个阶段的特征提取中都加入了信道注意块(Channel Attention Block,
+                    CAB)，有效地提取了有用的特征。通道注意模块(CAM)在计算机视觉的各种任务中一直发挥着无可比拟的作用。例如，[45]将通道关注引入图像分类任务，[46,44,47]强制引入图像分割任务。作者不是简单地层叠多个阶段，而是在每两个阶段之间合并一个监督注意模块。监督注意模块对前一阶段的特征映射进行重新缩放，可以抑制当前阶段信息较少的特征，只允许有用的特征传
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    播到下一阶段。同时，监控关注模块提供地真监控信号，对各阶段的渐进图像恢复具有重要意义。此外，作者还提出了一种跨阶段的特征融合机制，使前一阶段的多尺度特征有助于丰富下一阶段的特征，也使网络不易受到信息丢失的影响。值得注意的是，本文提出的网络架构不仅在图像解调任务中有效，而且在图像去雾、图像去训练和图像去噪任务中也有效。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7034CFEE" w14:textId="117BCC5B" w:rsidR="00402EAC" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00402EAC" w:rsidP="00C3478A">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>3.2生成对抗去模糊网络</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5D45D79E" w14:textId="145947C1" w:rsidR="00C3478A" w:rsidRPr="00C54C87"
+             w:rsidRDefault="006B59F1" w:rsidP="00C3478A">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>2014年，蒙特利尔大学的Ian Goodfellow[48]及其同事引入了生成对抗网络(Generative Adversarial Networks,
+                    GAN)。这是一种学习数据基本分布的新方法，使生成的人工物体与真实物体达到惊人的相似度。GAN背后的思想非常直观:生成器和鉴别器两个网络相互对抗。生成器的目标是生成一个对象(例如一个人的照片)，并使其看起来与实际情况相同。鉴别器的目标是找出生成的结果与真实图像之间的差异。然后，对抗性学习的方法被广泛应用于图像任务中，如[49]将GAN网络应用于分割任务。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4F049C8B" w14:textId="501CC3CF" w:rsidR="006B59F1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="006B59F1" w:rsidP="00C3478A">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="7A90C745" wp14:editId="147871E2">
+                        <wp:extent cx="5274310" cy="4674235"/>
+                        <wp:effectExtent l="0" t="0" r="2540" b="0"/>
+                        <wp:docPr id="1548771647" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="1548771647" name=""/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId11"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="5274310" cy="4674235"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="021E0304" w14:textId="30568936" w:rsidR="006B59F1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="006B59F1" w:rsidP="00C3478A">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t xml:space="preserve">forest </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>Kupyn</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    等[50]受到生成对抗网络中图像超分辨率[36]和图像到图像转换工作[37]的启发，将图像去模糊作为这种图像到图像转换的特殊情况。提出一种产生对抗的去模糊网络。作者构造了一个生成式对抗网络，训练了一个生成器和一个判别器。在训练阶段，笔者在训练生成器网络的同时引入了判别器网络，并以对抗的方式对两个网络进行训练。笔者希望通过这一点
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>交替训练方法，生成器和鉴别器的性能可以不断提高，就像与一个好的对手竞争时双方都可以提高一样。笔者将感知损失和对抗损失作为总损失。知觉损失一般侧重于一般内容的恢复，对抗损失侧重于细节的恢复。与
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>L1损失和L2损失相比，感知损失更简单，L2损失是特征映射的损失。在测试阶段，将模糊图像输入到训练好的发电机网络中，可以获得清晰的图像。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1B93984F" w14:textId="6CBBE998" w:rsidR="006B59F1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="006B59F1" w:rsidP="006B59F1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t xml:space="preserve">forest </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>Kupyn</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>等[13]提出了一种新的deblurgan-v2框架。与[50]相比，其生成器采用特征金字塔结构，鉴别器采用相对性鉴别器。</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>该特征金字塔模型通过自顶向下的路径，从语义丰富的层重建更高的空间分辨率。隔间之间的水平连接以高分辨率细节补充了自下而上和自上而下的路径，并有助于定位物体。作者将以</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    5张不同尺度的最终特征图作为输出，并将各层信息进行整合，以提高去模糊性能。因为底层特征语义信息相对较少，但目标定位准确;高级特征语义信息更丰富，但目标定位相对粗糙。此外，虽然有些算法使用多尺度特征融合，但它们通常使用融合后的特征进行预测。FPN的不同之处在于预测是在不同的特征层独立进行的，因此FPN结构经历了不同的卷积次数和其他处理。你可以得到不同
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>的特征层信息。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3783108A" w14:textId="44C241B8" w:rsidR="006B59F1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="006B59F1" w:rsidP="006B59F1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>3.3无监督神经网络</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="38024A10" w14:textId="42DD8188" w:rsidR="006B59F1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00FC52F1" w:rsidP="006B59F1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>无论是生成对抗性图像去模糊网络还是多尺度图像去模糊网络，都存在一个共同的问</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>题</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    :训练时间长、训练数据量大。即使一个强大的网络模型没有足够的训练数据，也不可能有很强的去模糊性能。众所周知，传统的图像去模糊算法在没有大量数据支持的情况下，仍然可以达到很好的去模糊效果。如何弥合传统算法与深度学习之间的差距，在传统方法与深度学习方法之间架起一座桥梁，构建无监督神经网络，成为一个前沿问题。
+                </w:t>
+            </w:r>
+            <w:r w:rsidR="00EA07F6" w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    唐纳伦和艾尔提出了利用深度和亮度神经网络，在已知模糊核大小的情况下估计模糊核并清晰图像的方法。给定一个模糊图像和模糊核的大小，作者使用已知的图像大小和模糊核的大小，并使用相应大小的两种噪声作为清晰图像生成子模块和模糊核生成子模块的输入。通过分别引入
+                </w:t>
+            </w:r>
+            <w:r w:rsidR="00EA07F6" w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    DIP[52]和FCN来捕获干净图像和模糊核的先验，可以更好地恢复清晰图像和模糊核。利用得到的清晰图像和模糊核对两者进行卷积计算模糊图像的损失，然后更新两个子网络的参数。经过多次迭代，得到了性能优异的清晰图像生成子模块和模糊核生成子模块。经过大量的实验，作者发现两个子模块联合
+                </w:t>
+            </w:r>
+            <w:r w:rsidR="00EA07F6" w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    优化的效果明显优于交替优化的效果，并将其归因于无约束盲反卷积问题是一个高度非凸问题，因此交替优化方法会使优化陷入鞍点。这种无监督的方法无疑为我们解决图像去模糊问题提供了另一种全新的思路——无监督的思路。与以往需要大量数据和较长训练时间的深度学习方法相比，它无疑是更有优势的一方。然而，这种方法必须为每个单独的图像重新训练网络，并且需要给定的模糊核大小，这似乎有一定的局限性。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2AFE06FA" w14:textId="002EA917" w:rsidR="00EA07F6" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EA07F6" w:rsidP="006B59F1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="19199313" wp14:editId="1484B4B8">
+                        <wp:extent cx="5274310" cy="2110740"/>
+                        <wp:effectExtent l="0" t="0" r="2540" b="3810"/>
+                        <wp:docPr id="1742319805" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="1742319805" name=""/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId12"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="5274310" cy="2110740"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="56AC4102" w14:textId="71BCE74D" w:rsidR="00EA07F6" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EA07F6" w:rsidP="006B59F1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>4图像去模糊数据集</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7CF6D782" w14:textId="04F5E413" w:rsidR="00E87F9F" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EF105E" w:rsidP="006B59F1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>在这一部分中，我们将介绍图像去模糊领域中一些常用的数据集</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="019DE277" w14:textId="77777777" w:rsidR="00EF105E" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EF105E" w:rsidP="00EF105E">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>4.1 GoPro数据集</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2CFD2D33" w14:textId="555038BF" w:rsidR="00EF105E" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EF105E" w:rsidP="00EF105E">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>GoPro数据集[35]是深度学习方法中使用频率最高的数据集。包括清晰图像和模糊图像3214对，其中训练集2103对，测试集1111对。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="07BBC89C" w14:textId="77777777" w:rsidR="00EF105E" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EF105E" w:rsidP="00EF105E">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="6DBEC844" w14:textId="77777777" w:rsidR="00EF105E" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EF105E" w:rsidP="00EF105E">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t xml:space="preserve">4.2 </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>RealBlur</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>数据集</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4A0BBC4C" w14:textId="21059200" w:rsidR="00EF105E" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EF105E" w:rsidP="00EF105E">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>RealBlur</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    数据集[53]由两个共享相同图像内容的子集组成，其中一个子集由相机的原始图像生成，另一个子集由相机的ISP处理后的JPEG图像生成。每个子集提供232对弱光静态场景的4,556对模糊和真实清晰的图像。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3F438F38" w14:textId="77777777" w:rsidR="00EF105E" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EF105E" w:rsidP="00EF105E">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="1BD5301B" w14:textId="77777777" w:rsidR="00EF105E" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EF105E" w:rsidP="00EF105E">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>4.3 HIDE数据集</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4430CD40" w14:textId="77777777" w:rsidR="00EF105E" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EF105E" w:rsidP="00EF105E">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    HIDE数据集[54]8422对65,784个人类边界框进行了广泛的注释，用于清晰图像和模糊图像。这些图像是从31个高fps视频中精心挑选出来的，这些视频不仅包括真实的户外场景，还包括不同距离出现的不同人物、姿势和人物。数据集也可以分为两类，包括长镜头。(HIDEI)和普通行人(近景，HIDEII)。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="688C3B07" w14:textId="1F3EDFFA" w:rsidR="00EF105E" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EF105E" w:rsidP="00EF105E">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>4.4 Levin数据集</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="44147CB1" w14:textId="6A6F19A9" w:rsidR="00EF105E" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EF105E" w:rsidP="00EF105E">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>Levin数据集[38]是最早的模糊图像数据集，它包含4幅图像的8种不同模糊核的32幅灰度图像和相应的清晰图像</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="612C3FA3" w14:textId="78DA18D1" w:rsidR="00EF105E" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00EF105E" w:rsidP="00EF105E">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="61F6FE70" wp14:editId="65FFED47">
+                        <wp:extent cx="5274310" cy="1350645"/>
+                        <wp:effectExtent l="0" t="0" r="2540" b="1905"/>
+                        <wp:docPr id="100336106" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="100336106" name=""/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId13"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="5274310" cy="1350645"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0385B3B6" w14:textId="77777777" w:rsidR="008826E1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="008826E1" w:rsidP="008826E1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>5图像质量评价</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4C140047" w14:textId="3B4C0397" w:rsidR="00EF105E" w:rsidRPr="00C54C87"
+             w:rsidRDefault="008826E1" w:rsidP="008826E1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>图像评价指标已广泛应用于其他图像工作领域。图像质量评价是图像处理的基本技术之一。？ ？ ？ ？ ？
+                    ]。图像质量评价是图像处理的基本技术之一。它是反映图像质量的重要指标。主要分为主观质量评价和客观质量评价。主观质量评价的主体是人，人们根据自己的观看体验来打分。
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>这种评价方法最准确，最符合人的感知。缺点是评估很麻烦且效率低下。客观质量评价以图像统计信息为基础，应用较为广泛，可分为全参考、半参考和无参考。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6C72B478" w14:textId="77777777" w:rsidR="008826E1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="008826E1" w:rsidP="008826E1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>5.1主观质量评价</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="13A41D01" w14:textId="730D9DFC" w:rsidR="008826E1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="008826E1" w:rsidP="008826E1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>主观质量评分法是最具代表性的图像质量主观评价方法，它通过对观察者的评分进行归一化来判断图像质量。主观质量评分法可分为绝对评价和相对评价两种。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2559C7D9" w14:textId="19F96FA8" w:rsidR="008826E1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="008826E1" w:rsidP="008826E1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>国际电信联盟</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    (ITU)对主观评价方法提出了多种标准，其中最常用的有三种，即双刺激损伤分级法、双刺激连续质量分级法和单刺激连续质量分级法:双刺激损伤分级法，给定原始图像(未失真的参考图像)和待测图像(具有一定失真)的两组图像;将两组图像进行对比，观察待测图像的损伤情况，根据图像主观质量5a级计分表选择待测图像的等级。双刺激连续质量分级法也给出两组图像，不同的是观测器不知道哪一组是参考图像，哪一组是失真图像。观察者只需要根据计分表分别对参考图像和测试图像进行评分。最后，计算参考图像和待测图像的平均值，并计算两者
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>的差值。差异越小，待测图像的质量越好。单刺激连续质量分级法类似于绝对主观评价。观察者根据计分表对待测图像进行连续评分，并根据评分和评分时间得到待测图像的质量评价。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="190CED6E" w14:textId="77777777" w:rsidR="008826E1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="008826E1" w:rsidP="008826E1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>5.2客观质量评价</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2F45EAFF" w14:textId="2B348632" w:rsidR="008826E1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="008826E1" w:rsidP="008826E1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    由于深度学习在图像去模糊领域的热门发展，基于全参考的客观图像质量评价已成为主流。图像质量的客观评价方法是基于人眼的主观视觉系统建立数学模型，通过特定的公式计算图像质量。传统的图像客观质量评价指标有很多，其中最广为人知的是MSE和PSNR。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2B69EA67" w14:textId="4B104384" w:rsidR="008826E1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="008826E1" w:rsidP="008826E1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>5.2.1</w:t>
+            </w:r>
+            <w:r w:rsidR="00822EA7" w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> MSE</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="54045485" w14:textId="51378FD1" w:rsidR="008826E1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00822EA7" w:rsidP="008826E1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>均方误差</w:t>
+            </w:r>
+            <w:r w:rsidR="008826E1" w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>通常用于检测预测值与真实值之间的偏差</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="656B587C" w14:textId="238268F6" w:rsidR="008826E1" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00822EA7" w:rsidP="008826E1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="5D016B93" wp14:editId="1A88C7D0">
+                        <wp:extent cx="4480948" cy="548688"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="3810"/>
+                        <wp:docPr id="469350586" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="469350586" name=""/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId14"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="4480948" cy="548688"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="472B0A83" w14:textId="72088B39" w:rsidR="00822EA7" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00822EA7" w:rsidP="008826E1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>其中，</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>m表示像素数，</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>yi</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>表示I个像素的实值，</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>ybi</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>表示I个像素的预测值。均方误差越小，预测值与实测值的差异越小，预测图像越真实。然而，在当今深度方法的图像去模糊中，</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>mse</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd"/>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>常被用作训练时的损失，PSNR和SSIM更多地被作为测试去模糊效果的客观评价指标。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6CD86443" w14:textId="6CBDD023" w:rsidR="00822EA7" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00822EA7" w:rsidP="00822EA7">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>5.2.</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> PSNR</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="309983FB" w14:textId="76346498" w:rsidR="00822EA7" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00822EA7" w:rsidP="008826E1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>峰值信噪比</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>(Peak signal-to-noise ratio, PSNR)是评价图像的客观标准，有很多应</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>用场景。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5FBF4E6D" w14:textId="26B995EC" w:rsidR="00822EA7" w:rsidRPr="00C54C87"
+             w:rsidRDefault="00822EA7" w:rsidP="008826E1">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="38B933DC" wp14:editId="34075072">
+                        <wp:extent cx="4465707" cy="609653"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                        <wp:docPr id="295260481" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="295260481" name=""/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId15"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="4465707" cy="609653"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="54164B1D" w14:textId="3B3528EE" w:rsidR="00822EA7" w:rsidRPr="00C54C87"
+             w:rsidRDefault="000F76C4" w:rsidP="000F76C4">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>
+                    N为每像素位数，一般为8，即像素灰度数为256。PSNR的单位是dB，该值越大，失真越小。MSE值越小，两幅图越接近，PSNR值越大，失真越小。PSNR是最常见、应用最广泛的图像客观评价指标，但它是基于对应像素之间的误差，即基于误差敏感的图像质量评价。由于没有考虑人眼的视觉特性(人眼对较低空间频率的对比度差异更敏感，人眼对亮度对比度差异比色度更敏感)，因此人眼对一个区域的感知会受到结果的影响。
+                </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>周边地区的影响等</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>)，所以评价结果往往与人们的主观感受不一致。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="42529A9F" w14:textId="3325C770" w:rsidR="000F76C4" w:rsidRPr="00C54C87"
+             w:rsidRDefault="000F76C4" w:rsidP="000F76C4">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>5.2.3 SSIM</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="600F4B04" w14:textId="19A776DB" w:rsidR="000F76C4" w:rsidRPr="00C54C87"
+             w:rsidRDefault="000F76C4" w:rsidP="000F76C4">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>为了克服客观指标与主观感受之间的差异等提出了一种新的图像质量评价指标，即结构相似度</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>(SSIM)。该系统将相似性测量任务分为三个比较:亮度、对比度和结构。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="111991F7" w14:textId="7BB35C72" w:rsidR="000F76C4" w:rsidRPr="00C54C87"
+             w:rsidRDefault="000F76C4" w:rsidP="000F76C4">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="2AEE71CF" wp14:editId="1890D75C">
+                        <wp:extent cx="4602879" cy="1280271"/>
+                        <wp:effectExtent l="0" t="0" r="7620" b="0"/>
+                        <wp:docPr id="1688590331" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="1688590331" name=""/>
+                                        <pic:cNvPicPr/>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId16"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="4602879" cy="1280271"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1ABEC686" w14:textId="6836AD75" w:rsidR="000F76C4" w:rsidRPr="00C54C87"
+             w:rsidRDefault="000F76C4" w:rsidP="000F76C4">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>6.总结</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="076D18E8" w14:textId="257BD59E" w:rsidR="000F76C4" w:rsidRPr="00C54C87"
+             w:rsidRDefault="000F76C4" w:rsidP="000F76C4">
+            <w:pPr>
+                <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>本文综述了图像去模糊的研究进展。分别对传统图像去模糊方法和深度表示图像去模糊方法进行了综合总结。对传统的图像去模糊方法中最大后验法和变分贝叶斯法进行了详细的介绍和分析</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00C54C87">
+                <w:rPr>
+                    <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="宋体"/>
+                </w:rPr>
+                <w:t>;在深度表示的图像去模糊方法中，多尺度去模糊网络及其生成与去模糊网络和无监督神经网络相对抗。最后，提出了几种常用的图像去模糊数据集。总的来说，这篇综述对相关研究者具有一定的指导意义。</w:t>
+            </w:r>
+        </w:p>
+        <w:sectPr w:rsidR="000F76C4" w:rsidRPr="00C54C87">
+            <w:pgSz w:w="11906" w:h="16838"/>
+            <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992"
+                     w:gutter="0"/>
+            <w:cols w:space="425"/>
+            <w:docGrid w:type="lines" w:linePitch="312"/>
+        </w:sectPr>
+    </w:body>
+</w:document>
